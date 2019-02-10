@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>This is a  title</title>
+    <title>This is a test title</title>
 </head> 
 <body>
     <form id="form1" runat="server">
